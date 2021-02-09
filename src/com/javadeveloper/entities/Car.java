@@ -2,6 +2,8 @@ package com.javadeveloper.entities;
 
 public class Car {
 
+    private String code;
+
     private String number;
 
     private int mileage;
@@ -12,7 +14,8 @@ public class Car {
 
     private String typeName = "Легковой автомобиль";
 
-    public Car (String number, int mileage) {
+    public Car (String code, String number, int mileage) {
+        this.code = code;
         this.number = number;
         this.mileage = mileage;
     }
@@ -44,5 +47,13 @@ public class Car {
 
     public double getMileage() {
         return mileage;
+    }
+
+    public String getCode() {
+        return code;
+    }
+
+    public String getNumber() {
+        return number;
     }
 }

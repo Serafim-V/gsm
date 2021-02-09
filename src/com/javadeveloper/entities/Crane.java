@@ -4,8 +4,8 @@ public class Crane extends Car {
 
     private int weightCount;
 
-    public Crane(String number, int mileage, int weightCount) {
-        super(number, mileage);
+    public Crane(String code, String number, int mileage, int weightCount) {
+        super(code, number, mileage);
         this.weightCount = weightCount;
         setCostPerLiter(48.9);
         setConsumption(20);
