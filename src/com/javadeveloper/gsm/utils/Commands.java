@@ -1,6 +1,6 @@
-package com.javadeveloper.utils;
+package com.javadeveloper.gsm.utils;
 
-import com.javadeveloper.entities.Car;
+import com.javadeveloper.gsm.entities.Car;
 
 import java.util.ArrayList;
 import java.util.HashMap;

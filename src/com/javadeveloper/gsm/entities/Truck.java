@@ -1,4 +1,4 @@
-package com.javadeveloper.entities;
+package com.javadeveloper.gsm.entities;
 
 public class Truck extends Car {
 

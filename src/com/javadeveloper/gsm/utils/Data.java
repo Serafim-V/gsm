@@ -1,9 +1,9 @@
-package com.javadeveloper.utils;
+package com.javadeveloper.gsm.utils;
 
-import com.javadeveloper.entities.Bus;
-import com.javadeveloper.entities.Car;
-import com.javadeveloper.entities.Crane;
-import com.javadeveloper.entities.Truck;
+import com.javadeveloper.gsm.entities.Bus;
+import com.javadeveloper.gsm.entities.Car;
+import com.javadeveloper.gsm.entities.Crane;
+import com.javadeveloper.gsm.entities.Truck;
 
 import java.util.ArrayList;
 

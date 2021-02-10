@@ -1,8 +1,8 @@
-package com.javadeveloper;
+package com.javadeveloper.gsm;
 
-import com.javadeveloper.entities.Car;
-import com.javadeveloper.utils.Commands;
-import com.javadeveloper.utils.Data;
+import com.javadeveloper.gsm.entities.Car;
+import com.javadeveloper.gsm.utils.Commands;
+import com.javadeveloper.gsm.utils.Data;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
