@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class Data {
 
-    public static ArrayList<Car> parseInputString(String[] data) {
+    public static ArrayList<Car> parseInputStringToArrayList(String[] data) {
         ArrayList cars = new ArrayList<Car>();
 
         for(String codeCar: data) {
